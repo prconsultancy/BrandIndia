@@ -1,18 +1,8 @@
 [
     {
-        "title": "Technology",
-        "playlist": "msQ0GbKLO96sP-G9ali-EQ3lc38I9PF4",
-        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Technology.png"
-    },
-    {
-        "title": "Tourism",
-        "playlist": "msQ0GbKLO976jbXkF0BYvf4_1V2_X1Uv",
-        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Tourism.png"
-    },
-    {
-        "title": "Tradition",
-        "playlist": "msQ0GbKLO95x6N0a7vp_5-25-nQxkHMv",
-        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Traditional.png"
+        "title": "Talent",
+        "playlist": "msQ0GbKLO96n2cD_x72UFjyphQHa4Hkr",
+        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Talent.png"
     },
     {
         "title": "Trade",
@@ -20,9 +10,19 @@
         "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Trade.png"
     },
     {
-        "title": "Talent",
-        "playlist": "msQ0GbKLO96n2cD_x72UFjyphQHa4Hkr",
-        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Talent.png"
+        "title": "Tradition",
+        "playlist": "msQ0GbKLO95x6N0a7vp_5-25-nQxkHMv",
+        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Traditional.png"
+    },
+    {
+        "title": "Tourism",
+        "playlist": "msQ0GbKLO976jbXkF0BYvf4_1V2_X1Uv",
+        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Tourism.png"
+    },
+    {
+        "title": "Technology",
+        "playlist": "msQ0GbKLO96sP-G9ali-EQ3lc38I9PF4",
+        "url":"https://raw2.github.com/prconsultancy/BrandIndia/master/images/Technology.png"
     },
     {
         "title": "Latest",
